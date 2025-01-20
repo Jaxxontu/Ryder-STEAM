@@ -1,2 +1,2 @@
 # Ryder-STEAM
-Ryder Motivated Projects
+Ryder Motivated STEAM Projects
