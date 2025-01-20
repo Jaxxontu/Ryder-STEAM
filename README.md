@@ -1,2 +1,2 @@
 # Ryder-STEAM
-Ryder Motivated Projects
+Ryder Motivated Science Technology Engineering Arts and Math Projects
